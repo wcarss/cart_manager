@@ -1,0 +1,22 @@
+8402 68.72 12.24 0 item one
+PR3944 360.58 46.64 1 item two
+PR7831 440.63 7.48 1 item three
+PR7984 319.83 48.47 1 item four
+PR9116 489.82 41.65 1  item five
+PR1976 318.92 33.80 1 item six
+PR3352 218.35 9.51 0  item seven
+PR7682 323.70 5.49 0 item eight
+PR2778 57.43 14.78 1 item nine
+PR5540 110.60 15.51 1 item ten
+PR4774 349.02 40.59 1 item eleven
+PR6289 442.61 15.76 1 item twelve
+PR3648 497.75 32.96 1 item thirteen
+PR5134 476.43 42.63 0 item fourteen
+PR9522 77.77 48.38 1 item fifteen
+PR9162 50.53 45.86 1 item sixteen
+PR6357 472.85 44.58 0  item seventeen
+PR7173 102.96 17.48 1 item eighteen
+PR1416 39.23 23.47 1 item nineteen
+PR6070 119.76 13.84 0 item twenty
+
+
